@@ -1,0 +1,4 @@
+Repaso de como leer
+rachivos con python.
+Manipular archivos nos permitepersistirt los resultados
+creando programas que guardanla informacion que va generando
